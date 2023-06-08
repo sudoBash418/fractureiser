@@ -255,7 +255,7 @@ It appears to be just the SkyRage updater, which is another minecraft malware ta
 - Linux: `/bin/vmd-gnu`, `/etc/systemd/system/vmd-gnu.service`, service `vmd-gnu`
 
 ### Connections
-- C&C server: `connect.skyrage.de`
+- C&C server: `connect.skyrage.de:1337`
 - Downloading: `hxxp://t23e7v6uz8idz87ehugwq.skyrage.de/qqqqqqqqq`
 
 ### Actions
